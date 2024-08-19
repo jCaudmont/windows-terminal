@@ -1,5 +1,5 @@
-# windows-terminal
-Configuration &amp; personnalisation du terminal Windows
+# Introduction
+Ce repository à pour but de mettre en ligne mes configurations &amp; personnalisations du terminal Windows.
 
 # Theme
 
@@ -8,7 +8,7 @@ Configuration &amp; personnalisation du terminal Windows
 ![Theme_tenace](/images/theme_tenace.png)
 
 ```json
-{
+        {
             "background": "#0C0C0C",
             "black": "#232323",
             "blue": "#0054DA",
